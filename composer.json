@@ -4,8 +4,12 @@
   "keywords": [
     "flarum",
     "locale",
+    "vi",
     "Vietnamese"
   ],
+  "support": {
+    "source": "https://github.com/mrngophu/flarum-vi"
+  },
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
